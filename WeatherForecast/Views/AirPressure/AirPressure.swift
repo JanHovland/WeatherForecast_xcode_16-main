@@ -14,7 +14,7 @@ import WeatherKit
 /// som gir tallverdi lik den tidligere brukte enheten millibar (mb).
 ///
 
-/// https://snl.no/lufttrykk kkkk
+/// https://snl.no/lufttrykk  
 /// 
 
 struct AirPressure : View {
